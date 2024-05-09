@@ -1,0 +1,47 @@
+local rt = require("robot")
+local userInput = io.read()
+lenth = 17
+hight = 6
+z = 1
+--start
+rt.swing()
+rt.forward()
+rt.turnLeft()
+--first layer
+rt.swing()
+rt.forward()
+rt.swing()
+rt.forward()
+rt.swing()
+rt.forward()
+rt.swing()
+rt.forward()
+rt.swing()
+rt.forward()
+rt.swing()
+rt.forward()
+rt.swing()
+rt.forward()
+rt.swing()
+rt.forward()
+rt.swing()
+rt.forward()
+rt.swing()
+rt.forward()
+rt.swing()
+rt.forward()
+rt.swing()
+rt.forward()
+rt.swing()
+rt.forward()
+rt.swing()
+rt.forward()
+rt.swing()
+rt.forward()
+rt.swing()
+rt.forward()
+--up one
+rt.swingUp()
+rt.up()
+
+
